@@ -1,1 +1,1 @@
-# newgettext
+# newGitText
